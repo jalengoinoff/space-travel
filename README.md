@@ -4,7 +4,7 @@ React web application is designed for commanders orchestrating Earth's evacuatio
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ live at https://jalengoinoff.github.io/space-travel/
 
 ## Available Scripts
 
