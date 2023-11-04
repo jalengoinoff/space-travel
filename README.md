@@ -1,3 +1,7 @@
+
+# space travel 
+React web application is designed for commanders orchestrating Earth's evacuation. It allows users to manage spacecraft - listing, viewing details, building, and decommissioning. Additionally, users can oversee planets with spacecraft and facilitate interplanetary transfers for evacuees.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
